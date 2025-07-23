@@ -3,4 +3,4 @@
 ### [Ссылка на API Schema](https://devmanorg.github.io/fastai-api-schema/) продукта FastAI 
 
 ### Обновление схемы
-- Заменить файл [openapi.json](openapi.json) в корне репозитория
+- Заменить файл [docs/openapi.json](openapi.json) в папке `docs` репозитория
